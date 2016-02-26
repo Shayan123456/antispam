@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-send_contact(get_receiver(msg), "+13604742767", "NOD32", "BOT", ok_cb, false)
+send_contact(get_receiver(msg), "+62 88983908423", "S.H.O.S", "BOT", ok_cb, false)
 end
 
 return {
